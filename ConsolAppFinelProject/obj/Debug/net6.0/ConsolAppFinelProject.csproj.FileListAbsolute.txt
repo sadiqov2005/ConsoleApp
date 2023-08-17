@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\ConsolAppFinelProject.exe
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\ConsolAppFinelProject.deps.json
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\ConsolAppFinelProject.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\ConsolAppFinelProject.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\ConsolAppFinelProject.pdb
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\refint\ConsolAppFinelProject.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.pdb
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ref\ConsolAppFinelProject.dll

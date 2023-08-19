@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DomainLayer.Coomon;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DomainLayer.Models
 {
-    public class Restaurant
+    public class Restaurant:BaseEntity
     {
         public string Title { get; set; }
         public string Description { get; set; }

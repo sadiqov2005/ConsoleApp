@@ -7,14 +7,55 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ConsolAppFinelProject/1.0.0": {
+        "dependencies": {
+          "DomainLayer": "1.0.0",
+          "Service": "1.0.0"
+        },
         "runtime": {
           "ConsolAppFinelProject.dll": {}
+        }
+      },
+      "DomainLayer/1.0.0": {
+        "runtime": {
+          "DomainLayer.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "DomainLayer": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "DomainLayer": "1.0.0",
+          "Repository": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsolAppFinelProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

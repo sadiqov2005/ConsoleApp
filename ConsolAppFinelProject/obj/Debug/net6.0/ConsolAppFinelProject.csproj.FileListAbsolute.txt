@@ -13,3 +13,10 @@ C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debu
 C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.pdb
 C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ref\ConsolAppFinelProject.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\Repository.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\Service.dll
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\Service.pdb
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\bin\Debug\net6.0\Repository.pdb
+C:\Users\Admin\source\repos\ConsolAppFinelProject\ConsolAppFinelProject\obj\Debug\net6.0\ConsolAppFinelProject.csproj.CopyComplete
